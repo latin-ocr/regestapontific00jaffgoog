@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regestapontific00jaffgoog_0006.png"; bbox 0 0 4806 6390; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 2417 1750 2704">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 359 2417 1750 2768">
+     <span class='ocr_line' id='line_1_1' title="bbox 359 2417 1750 2704; baseline 0.004 -7"><span class='ocrx_word' id='word_1_1' title='bbox 359 2417 1750 2704; x_wconf 75' lang='lat' dir='ltr'>TOMUSSEOUNDUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 2945 1528 3076">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 2945 1528 3076">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 2945 1528 3076; baseline 0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 580 2979 661 3074; x_wconf 78' lang='lat' dir='ltr'>AB</span> <span class='ocrx_word' id='word_1_3' title='bbox 696 2981 749 3073; x_wconf 78' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_4' title='bbox 783 2945 1018 3074; x_wconf 73' lang='lat' dir='ltr'>Moxfflfl</span> <span class='ocrx_word' id='word_1_5' title='bbox 1051 2981 1133 3074; x_wconf 82' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_6' title='bbox 1167 2983 1220 3076; x_wconf 80' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1255 2979 1528 3076; x_wconf 78' lang='lat' dir='ltr'>Moxovffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2408 6388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2408 6388">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2408 6388; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2408 6388; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
